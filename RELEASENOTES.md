@@ -40,7 +40,7 @@ particular interest to plugin developers.
   * The whitelist has been enhanced to be more secure and configurable
   * You will need to add the new [cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) plugin
   * Legacy whitelist behaviour is still available via plugin (although not recommended).
-  * Refer to the updated “Whitelist Guide” in the Cordova documentation
+  * Refer to the updated [Whitelist Guide](http://link-somewhere) in the Cordova documentation
 
 Changes For Plugin Developers:
 
